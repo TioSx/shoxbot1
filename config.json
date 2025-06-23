@@ -1,0 +1,85 @@
+{
+	"token": "MTAzNDI2MDU5NzEwNzMzNTE5OA.GYpBx1.vhUwkAlu9ydPScOeel1X4n2ituzKw3ah3spqdQ",
+	"client_id": "1034260597107335198",
+	"guild_id": "656244004609851455",
+	"guild_admin_id": "1118648227315593328",
+	"config_absence": {
+		"server1": { "role_id": "1118649792961191977", "webhook": "https://discord.com/api/webhooks/1158155951157805137/aJKREAy5vRuLv0pGxPG58MfRa_j2GQXk2n9nP_zplrFQx_G6CbAUjDuR3sSPFSSEtUkK" },
+		"server2": { "role_id": "1118649835420127272", "webhook": "https://discord.com/api/webhooks/1158156050004988026/vBsBe1VhkOg1VEfYyDo4dxVe9A21ckt6hcQmQzGaQ10C2MmGuee1ObhzDP5OTTWwgqxs" },
+		"server3": { "role_id": "1118649866533486622", "webhook": "https://discord.com/api/webhooks/1158156094208737300/rMEJh5OQ7AIKhHcU-3H7fIR7oiniJzm4yN2YFdcZ5zwLDxLwtLxMDmRaODEwklCBP2B5" },
+		"server4": { "role_id": "1118649897437122692", "webhook": "https://discord.com/api/webhooks/1158156131324145707/U8ifZP9rwuut1__6m9UftVXldjbkU43HLvoreRDhQa8h4TB9IebJdNyrvvvM-6SZtYRB" }
+	},
+	"checkout": [
+		{
+			"name": "discord",
+			"role_id": "668263342443462666",
+			"startedChannel": "985588938397855814",
+			"finishedChannel": "985588938397855814"
+		},
+		{
+			"name": "fórum",
+			"role_id": "658145604337270794",
+			"startedChannel": "1128852685202915358",
+			"finishedChannel": "1128852685202915358"
+		},
+		{
+			"name": "sociais",
+			"role_id": "748177186342568046",
+			"startedChannel": "1128852869920071700",
+			"finishedChannel": "1128852869920071700"
+		}
+	],
+
+	"ticket-category": {
+		"1": "1135015992049807450",
+		"2": "1135016015412088963",
+		"3": "1135016033833451570",
+		"4": "1228160127182573659",
+		"discord": "1207158017968308234",
+		"forum": "1207158225741545542"
+	},
+	"ticket-logs": "987008362447245412",
+	"ticket-log-transcripts": "1133627152957452388",
+	"ticket-roles": {
+		"1": {
+			"permission": ["659909981033725971", "1319865533364961360"],
+			"jogo": ["659909981033725971"],
+			"denúncia": ["1120942454695280650"],
+			"lideres": ["1120942459711672390"],
+			"eventos": ["1120942464337985697"],
+			"família": ["1120942469836722227"],
+			"fórum": ["658145604337270794"],
+			"discord": ["668263342443462666"]
+		},
+		"2": {
+			"permission": ["773239011241623622", "1319865533364961360"],
+			"jogo": ["773239011241623622"],
+			"denúncia": ["1120942454695280650"],
+			"lideres": ["1120942459711672390"],
+			"eventos": ["1120942464337985697"],
+			"família": ["1120942469836722227"],
+			"fórum": ["658145604337270794"],
+			"discord": ["668263342443462666"]
+		},
+		"3": {
+			"permission": ["820000868161552485", "1319865533364961360"],
+			"jogo": ["820000868161552485"],
+			"denúncia": ["1120942454695280650"],
+			"lideres": ["1120942459711672390"],
+			"eventos": ["1120942464337985697"],
+			"família": ["1120942469836722227"],
+			"fórum": ["658145604337270794"],
+			"discord": ["668263342443462666"]
+		},
+		"4": {
+			"permission": ["838836670441979976", "1319865533364961360"],
+			"jogo": ["838836670441979976"],
+			"denúncia": ["1120942454695280650"],
+			"lideres": ["1120942459711672390"],
+			"eventos": ["1120942464337985697"],
+			"família": ["1120942469836722227"],
+			"fórum": ["658145604337270794"],
+			"discord": ["668263342443462666"]
+		}
+	}
+}

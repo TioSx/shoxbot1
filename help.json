@@ -1,0 +1,152 @@
+[
+	{
+		"id": "faq",
+		"name": "FAQ",
+		"emoji": "📖",
+		"description": "- Nesta opção você terá acesso às dúvidas frequentes do servidor e suas respostas.",
+		"response": "<:IconSeta:909560455842902026> Aqui você irá ter acesso às dúvidas frequentes do servidor e suas respostas\n- Para ter acesso a elas basta abrir a lista abaixo e selecionar a dúvida.\n\n*Só você terá acesso as mensagem enviadas pelo bot.*",
+		"options": [
+			{
+				"name": "Como jogar no Brasil Play Shox",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> No computador:\n- Basta fazer o download do GTA San Andreas para computador e em seguida fazer a instalação do SA-MP.\n- [**Clique aqui**](https://www.brasilplayshox.com.br/baixe-agora) para fazer o Download do GTA + SAMP\n- [**Tutorial de instalação**](https://youtu.be/Q-h8SCs7Rc8)\n<:IconSeta:909560455842902026> **No mobile:**\n- Acesse a Play Store e procure pelo nosso Launcher que se chama `Brasil Play Shox Mobile`.\n- Ou basta [**Clicar aqui**](https://play.google.com/store/apps/details?id=com.jekmant.shoxlauncher&hl=pt_BR&gl=US) para fazer o download do Launcher"
+			},
+			{
+				"name": "Como eu consigo um emprego?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para conseguir um emprego basta ir até a prefeitura.\n\n- Quando você já estiver em um emprego, digite: **/ajudaemprego** para ver os comandos e as instruções.\n\n- **Como localizar?**\nPara localizar no mapa digite: **/gps** (com barra) e selecione `Locais Importantes (Los Santos)` e depois `Prefeitura`."
+			},
+			{
+				"name": "Como eu passo de nível?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para passar de nivel você precisa acumular respeitos\n\n- Quando o cronometro **`PayDay`** exibido no canto direito de sua tela chegar ao 0, você receberá o salário e 1 de respeito. Para ver seus respeitos digite **/rg**"
+			},
+			{
+				"name": "Como eu adquiro minhas licenças de veiculos e armas?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para adquirir licença de direção ou de armas você precisa ir até o **centro de licenças**.\n\n- Como localizar?\nPara localizar no mapa use: **/gps**, selecione `Locais importantes (Los Santos)` e procure por `Centro de licenças`.\n\n*É necessário possuir no minimo 1 hora jogada no servidor para adquirir suas licenças.*\n\n*Obs.: Para o porte de armas será necessário 12 horas jogadas no servidor.*"
+			},
+			{
+				"name": "Como eu solicito um atendimento?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para solicitar atendimento, basta digitar **/atendimento** no chat do servidor.\n\nAo digitar o comando, um menu irá abrir em sua tela onde você deverá selecionar a prioridade do atendimento e logo em seguida o assunto. Ao enviar o atendimento basta aguardar um administrador lhe atender."
+			},
+			{
+				"name": "Como eu compro meu veiculo próprio?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para adquirir um veiculo proprio basta ir até uma concessionária do servidor\n\n- O servidor possui vários tipos de concessionárias, tais como: veiculos top de linha, comum, aviões, motos e etc...\n\n- Os veiculos tem um valor relativamente alto, portanto, se você for iniciante, deverá trabalhar primeiro e conseguir o dinheiro necessário.\n\n*Use o /gps para localizar a concessionária*"
+			},
+			{
+				"name": "Como eu entro para uma organização policial ou criminosa?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para entrar em uma organização do servidor, você deverá entrar em contato com o lider ou o sub-lider da organização.\n\n- **Comando para ver os lideres online: /lideres**\n- **Comando para ver os sub-lideres online: /sublideres**\n\n- Ao digitar um dos comandos acima, vai abrir um menu mostrando todos os lideres/sub online e também mostrará o número de telefone do responsável.Com o numero de telefone você poderá entrar em contato com ele pelo comando **/sms** ou **/ligar**\n\n⚠️ **Informações importantes**\nQuando você for entrar em contato com o lider, ele vai efetuar o teste com você antes de te convidar para a organização. Será perguntado algumas regras da organização, do servidor e alguns comandos.\nEssas informações estão contidas no menu da organização (icone vermelho) que fica localizado na HQ (base) da organização.\nBasta pressionar `F` no menu da organização e depois selecionar `Manual da ORG` e ler as regras e também tomar conhecimento dos requisitos da org através deste manual."
+			},
+			{
+				"name": "Como eu faço um anuncio no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para anunciar alguma coisa no servidor basta digitar: **/an (mensagem do anúncio)**\n\n- Se você digitar: **/an** e não colocar a mensagem do anúncio, vai abrir um menu com alguns tipos de anúncios sugeridos.\n\n*Você só poderá anunciar vendas, ou algum tipo de item que deseja comprar.*"
+			},
+			{
+				"name": "Como eu localizo um local no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para localizar um local digite: **/gps**\n\n- Com o gps você pode localizar os locais mais importantes do servidor, como: HQ's (bases), empresas, locais de festas, local de tunagem e etc...\n- Caso você queria remover o ponto vermelho do seu mapa basta digitar: **/procuraroff**"
+			},
+			{
+				"name": "Como adquirir armas no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para comprar armas basta ir até uma loja de armas do servidor\n\n- No servidor possui várias lojas de armas espalhadas, para localizar uma delas basta usar o **/gps**\n\n*Para usar armas é necessário possuir o porte de armas, caso não tenha vá até o centro de licenças para adquirir.*"
+			},
+			{
+				"name": "Como eu posso adquirir vip no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para adquirir vip dentro do servidor basta utilizar o comando **/lojavip**\n\n- Irá abrir um menu na sua tela e por lá você poderá comprar vip com suas moedas vip."
+			},
+			{
+				"name": "Como eu mudo meu nome no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para mudar seu nickname você pode utilizar os comandos **/mudarnick** ou **/familia nick**\n\n- Para mudar o nick é necessário possuir **troca de nick** disponivel no **/rg**, caso não tenha adquira no **/menuvip**\n\n*Se você for de uma familia vip, poderá mudar seu sobrenome grátis, basta digitar: /familia nick*"
+			},
+			{
+				"name": "Como eu entro em contato com outro jogador no servidor?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para entrar em contato com outro jogador você pode utilizar os comandos **/sms**, **/ligar** e **/agenda**\n\n- Para saber o número de algum jogador basta digitar: **/agenda (id/nick do jogador)**\n- Para enviar uma mensagem privada basta digitar: **/sms (número do jogador)**\n- Para ligar digite: **/ligar (número do jogador)**\n\n- Para usar a agenda é necessário que você compre no mercado 24/7 (localize no **/gps**)\n- Para ligar ou enviar mensagem é necessáriuo que você tenha créditos, caso não tenha compre no mercado 24/7 (localize no **/gps**)"
+			},
+			{
+				"name": "Como eu abro meu inventário ou rg?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Abra seu inventário digitando: **/inventario** ou pressionando **`N`**\n<:IconSeta:909560455842902026> Abra seu RG digitando: **/rg**\n\n*Você poderá personalizar a forma de abrir o seu RG digitando: /configuracoes*"
+			},
+			{
+				"name": "Meu GTA está crashando, o que eu faço?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Abaixo será listado os possiveis problemas que resultam no `crash` do seu GTA.\n- **O que é crash?**\nCrash é uma falha no funcionamento do GTA que resulta no fechamento inesperado.\nMuitas das vezes o que causa é um mod que você tenha instalado para modificar veiculos, texturas e etc...\n\n*Se isso ocorre com muita freqência, recomendamos que você procure um anti-crash no google ou reinstale seu GTA.*"
+			},
+			{
+				"name": "Estão me matando sem motivo, o que eu faço?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Matar algum jogador sem motivo é considerado DM(DeathMatch), e se isso ocorrer você poderá denunciar o acusado no UCP\n\n- [**UCP LINK**](https://painel.brasilplayshox.com.br/) Você poderá reportar também esse jogador para os administradores online digitando: **/reportar**"
+			},
+			{
+				"name": "Criei uma conta no forum, quanto tempo leva até a ativação?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Após criar uma conta no fórum, você deverá aguardar ser ativada por um administrador.\n\n- A conta será ativada no mesmo dia. Quando você for criar uma conta no fórum deverá usar o mesmo nick do servidor, Ex: Mirella_Santos."
+			},
+			{
+				"name": "Fiz uma doação, como faço para receber as moedas?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para receber suas Moedas Vip basta digitar: **/lojavip** e selecionar **receber moedas vip**\n\n*As Moedas Vip serão agendadas em sua conta, ou seja, você receberá mesmo que não esteja online*"
+			},
+			{
+				"name": "Como comprar um imovel (casa / apartamento / mansão)",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Para comprar um imovel basta ir até o icone da entrada e digitar: **/comprarimovel**.\n- Você deverá possuir o nivel necessário requisitado no `texto` da entrada da casa.\n\n- É bem raro achar um imovel sem proprietário, portanto, utilize o **/an** para anunciar a todos os jogadores que você deseja adquirir uma propriedade. Após anunciar, algum vendedor entrará em contato com você através do **/sms** ou do **/ligar**.\n\n- **Como achar um imovel livre para comprar ?**\nO comando **/casaslivres** listará todos os imoveis que não possuem proprietário.\nO comando **/acharcasa (id da casa)** irá localizar a casa em seu mapa.\n\n- **Comandos**\n**/comprarimovel** - Compra o imovel;\n**/compraremp** - Compra a empresa;\n**/comprarfazenda** - Compra a fazenda;\n**/casaslivres** - Ver casas/apartamentos e mansões a venda;\n**/empresaslivres** - Ver empresas a venda;\n**/fazendaslivres** - Ver fazendas a venda;\n**/ajudaimovel** - Lista todos os comandos de um imovel;\n**/ajudafazenda** - Lista todos os comandos de uma fazenda;\n**/ajudaempresa** - Lista todos os comandos de uma empresa."
+			},
+			{
+				"name": "Como entro para a administração?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Primeiramente, você precisa obter experiência em nosso servidor em seguida acessar o nosso fórum para realizar as inscrições.\n\n*Lembre-se, é necessário atender os requisitos mínimos solicitados no fórum.*"
+			},
+			{
+				"name": "Como se tornar líder de uma organização?",
+				"emoji": "📚",
+				"response": "<:IconSeta:909560455842902026> Você deverá acessar o fórum do servidor em que você joga e procurar pelas inscrições.\n\n*Lembre-se, é necessário atender os requisitos mínimos solicitados pelo Departamento de Líderes.*"
+			}
+		]
+	},
+
+	{
+		"id": "registro",
+		"name": "Como se registrar",
+		"emoji": "📝",
+		"description": "- Nesta opção, você terá acesso as informações de como se registrar no nosso Discord.",
+		"response": "- Para se registrar em nosso Discord, acesso o nosso site [**clicando aqui**](https://www.brasilplayshox.com.br/login)\n\n<:IconSeta:909560455842902026> Selecione o servidor em que você joga;\n<:IconSeta:909560455842902026> Faça o login utilizando os mesmos dados do jogo (login e senha);\n<:IconSeta:909560455842902026> [?] Após fazer o login, você verá a opção 'DISCORD [NÃO VINCULADO]'. Clique em 'Vincular'.;\n<:IconSeta:909560455842902026> [?] Com a conta vinculada, clique em 'Validar conta'.\n<:IconSeta:909560455842902026> Ainda tem dúvidas? Procure um membro da nossa equipe. .\n- **Utilize a sua conta correta do Discord, muitos jogadores vinculam a conta errada e acaba tendo problemas no registro. Certifique-se de não ter nenhuma outra conta logada no seu aparelho movel ou computador**."
+	},
+	{
+		"id": "vip",
+		"name": "Compras de moedas VIP",
+		"emoji": "🛒",
+		"description": "- Nesta opção você terá acesso às informações de como comprar moedas vip dentro do nosso servidor.",
+		"response": "- Para comprar moedas vip em nosso servidor acesse o nosso site [**clicando aqui**](https://www.brasilplayshox.com.br/comprar-mv)\n\n<:IconSeta:909560455842902026> Selecione o servidor que você deseja receber suas moedas;\n<:IconSeta:909560455842902026> Informe seu nickname corretamente;\n<:IconSeta:909560455842902026> Selecione sua conta;\n<:IconSeta:909560455842902026> Informe a quantidade de moedas que deseja comprar;\n<:IconSeta:909560455842902026> Preencha os dados corretamente e escolha a forma de pagamento.\n- **Em quanto tempo receberei minhas moedas vip?**\nVocê receberá suas moedas 10 minutos **após a aprovação do pagamento**.\nBoleto tem o tempo de compensação, ou seja, suas moedas só irão cair após o pagamento ser compensado, podendo demorar **até 3 dias úteis**."
+	},
+	{
+		"id": "conta",
+		"name": "Problemas com conta",
+		"emoji": "❗",
+		"description": "- Nesta opção você terá informações de como resolver algum problema com a sua conta no servidor ou no fórum.",
+		"response": "- Está tendo algum problema com a sua conta no servidor ou no fórum? Acesse a área de problema com contas do servidor em que você joga e relate o ocorrido.\n<:IconSeta:909560455842902026> [**Servidor 1**](https://sv1.brasilplayshox.com.br/index.php?/forum/15-problemas-com-a-conta/)\n<:IconSeta:909560455842902026> [**Servidor 2**](https://sv2.brasilplayshox.com.br/index.php?/forum/15-problemas-com-a-conta/)\n<:IconSeta:909560455842902026> [**Servidor 3**](https://sv3.brasilplayshox.com.br/index.php?/forum/15-problemas-com-a-conta/)\n<:IconSeta:909560455842902026> [**Servidor 4**](https://sv4.brasilplayshox.com.br/index.php?/forum/15-problemas-com-a-conta/)\n\n*Lembre-se, esta área não é para revisão de banimento.*"
+	},
+	{
+		"id": "banimento",
+		"name": "Revisão de banimento",
+		"emoji": "✅",
+		"description": "- Acha que foi banido injustamente? Nesta opção você terá informações de como solicitar uma reanalise.",
+		"response": "- Acha que foi banido injustamente? Peça uma reanalise do seu banimento.\n\n<:IconSeta:909560455842902026> [**UCP**](https://painel.brasilplayshox.com.br/) \n\n*Lembre-se, os administradores têm um prazo para permanecer com as provas do seu banimento. Então, ao ser banido, poste a revisão imediatamente.*"
+	},
+	{
+		"id": "links",
+		"name": "Links úteis",
+		"emoji": "🔗",
+		"description": "- Procurando algum outro link relacionado ao Brasil Play Shox ? Nesta opção você encontra os principais links do servidor.",
+		"response": "- Precisa de ajuda para encontrar as redes sociais ou sites do servidor ? Aqui poderá conferir alguns dos principais links de acesso.\n\n<:IconSeta:909560455842902026> [**Site Oficial**](https://bit.ly/32vi8YV)\n<:IconSeta:909560455842902026> [**Fórum Servidor 1**](https://sv1.brasilplayshox.com.br/)\n<:IconSeta:909560455842902026> [**Fórum Servidor 2**](https://sv2.brasilplayshox.com.br/)\n<:IconSeta:909560455842902026> [**Fórum Servidor 3**](https://sv3.brasilplayshox.com.br/)\n<:IconSeta:909560455842902026> [**Fórum Servidor 4**](https://sv4.brasilplayshox.com.br/)\n<:IconSeta:909560455842902026> [**Criar Denúncias**](https://painel.brasilplayshox.com.br/)\n<:IconSeta:909560455842902026> [**Instagram**](https://bit.ly/3lsRoRl)\n<:IconSeta:909560455842902026> [**YouTube**](https://bit.ly/3gDWSoK)\n<:IconSeta:909560455842902026> [**Facebook**](https://bit.ly/2EEpZLp)\n<:IconSeta:909560455842902026> [**Grupo do Facebook**](https://bit.ly/3loD6RH)\n\n*Em caso de algum dos links não estar funcionando, contatar algum Programador Discord.*"
+	}
+]
